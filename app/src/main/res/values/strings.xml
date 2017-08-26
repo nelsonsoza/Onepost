@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Onepost</string>
+
+    <string name="facebook_app_id">1241933579266251</string>
+
+    <string name="fb_login_protocol_scheme">fb1065828690183627</string>
+
+    <string name="bienvenido_a_onepost">Bienvenido a Onepost</string>
+    <string name="crea_tus_publicaciones">CREA TUS PUBLICACIONES</string>
+    <string name="redacta_y_sube_tus_imagenes_o_videos_crea_tus_publicaciones_en_un_solo_lugar">Redacta y sube tus imagenes o videos. Crea tus publicaciones en un solo lugar.</string>
+    <string name="comparte_en_facebook">COMPARTE EN FACEBOOK</string>
+    <string name="una_sola_publicacion_destinos_ilimitados_crea_y_comparte_desde_onepost_y_tu_publicaciones_se_enviaran_masivamente_a_los_grupos_y_paginas_que_selecciones.">Una sola publicacion, destinos ilimitados. Crea y comparte desde Onepost y tu publicaciones se enviaran masivamente a los grupos y paginas que selecciones.</string>
+    <string name="vamos">¡Vamos!</string>
+    <string name="cancel_login">Se cancelo la operacion.</string>
+    <string name="error_login">Ocurrio un error al ingresar.</string>
+    <string name="aqui_va_la_creacion_de_la_publicacion_para_finalizar_el_siguiente_activity_va_la_seleccion_multiple_de_grupos_y_paginas">Aqui va la creacion de la publicacion. Para finalizar el siguiente Activity va la seleccion multiple de grupos y paginas.</string>
+    <string name="escribe_tu_publicacion">Escribe tu publicacion</string>
+    <string name="PRUEBA_PRO_GRATUITA">PRUEBA PRO GRATUITA</string>
+    <string name="prueba_una_cuenta_pro_durante_30_dias_de_forma_gratuita_y_gestiona_las_publicaciones_que_compartiras_en_ada_grupo_en_facebook">Prueba una cuenta Pro durante 30 dias de forma gratuita y gestiona las publicaciones que compartiras en ada grupo en Facebook.</string>
+</resources>
